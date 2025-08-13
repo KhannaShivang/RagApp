@@ -1,6 +1,7 @@
 langchain
 langchain-community
 python-dotenv
+dotenv
 pypdf
 langchain-text-splitters
 sentence-transformers
